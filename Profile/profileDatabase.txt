@@ -1,0 +1,9 @@
+userID,name,role
+1,Dr.Cheng,doctor
+2,James Jimbowski,patient
+3,Jill Jimbowski,patient
+4,Nemo,Patient
+5,Memo,Doctor
+6,NewPatient,Patient
+7,Me,Patient
+8,Hello,Patient
